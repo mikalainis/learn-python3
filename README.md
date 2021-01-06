@@ -11,20 +11,44 @@
 This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
 
 #### Requirements
-* Have Python 3.5 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
-* Have [Jupyter Notebook installed](http://jupyter.readthedocs.io/en/latest/install.html).
+* Use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) Notebooks to follow codidng examples.
 
-If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
+If you can not access Google Colab Notebook, you can still follow the web based materials. However, you should be able to use Colab Notebook in order to complete the exercises.
 
 #### Usage
 
-1. Clone or download this repository.
-2. Run `jupyter notebook` command in your command line in the repository directory.
-3. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
+1. Clone or download this repository onto your Google Drive.
+2. Open Google colab notebooks on Google Dirve via Chrome browser.
+3. Google Colab session will open in the browser and you can start navigating through the materials.
 
 #### Contributing
 See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRIBUTING.md) guide.
 
+### The Zen Of Python
+
+`import this`
+
+*The Zen of Python, by Tim Peters*
+
+* Beautiful is better than ugly.
+* Explicit is better than implicit.
+* Simple is better than complex.
+* Complex is better than complicated.
+* Flat is better than nested.
+* Sparse is better than dense.
+* Readability counts.
+* Special cases aren't special enough to break the rules.
+* Although practicality beats purity.
+* Errors should never pass silently.
+* Unless explicitly silenced.
+* In the face of ambiguity, refuse the temptation to guess.
+* There should be one-- and preferably only one --obvious way to do it.
+* Although that way may not be obvious at first unless you're Dutch.
+* Now is better than never.
+* Although never is often better than *right* now.
+* If the implementation is hard to explain, it's a bad idea.
+* If the implementation is easy to explain, it may be a good idea.
+* Namespaces are one honking great idea -- let's do more of those!
 
 ## Beginner
 1. [Strings](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/strings.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/strings.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/strings_exercise.ipynb)
