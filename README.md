@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="logo"/>
+  <img src="logo_hacking_light.png" alt="logo"/>
 </p>
 
 # Learn Python 3
