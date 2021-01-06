@@ -2,10 +2,6 @@
   <img src="logo_hacking_light.png" alt="logo"/>
 </p>
 
-# Learn Python 3
-
-[![Build Status](https://travis-ci.org/jerry-git/learn-python3.svg?branch=master)](https://travis-ci.org/jerry-git/learn-python3)
-
 ## Introduction
 
 This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
