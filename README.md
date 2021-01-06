@@ -121,7 +121,3 @@ A list of best development practices for Python projects. Most of the practices 
 	* openpyxl
 * pdf
 	* pdfrw / PyPDF2
-
-
-## Credits
-* Logo: Abdur-Rahmaan Janhangeer, [@Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ)
